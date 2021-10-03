@@ -1,7 +1,7 @@
 {
-  "name": "my-music",
+  "name": "react-boilerplate",
   "version": "1.0.0",
-  "description": "Music Streaming Site",
+  "description": "basic react boilerplate with webpack and babel",
   "main": "index.js",
   "author": "Swastik Yadav",
   "license": "MIT",
